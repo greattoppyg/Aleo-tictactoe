@@ -1,2 +1,2 @@
-# Aleo-tictactoe
-My Aleo tictactoe
+# Aleo-Tutorial
+My Aleo Tutorial
